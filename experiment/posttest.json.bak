@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ A = \\begin{bmatrix} 436.6216 & -194.4377 & 0 \\\\ -194.4377 & 307.159 & -112.7213 \\\\ 0 & -112.7213 & 112.7213 \\end{bmatrix} $$ $$ d = \\begin{bmatrix} 89.8026 \\\\ 48.4647 \\\\ 70.2897 \\end{bmatrix} $$ $$ A × X = d $$ Find vector a, b and c.",
+      "qid": 1,
+      "option_a": "$$ a = \\begin{vmatrix} -194.4377 \\\\ -112.7213 \\\\ 0 \\end{vmatrix}, \\quad b = \\begin{vmatrix} 307.159 \\\\ 112.7213\\\\ 436.6216 \\end{vmatrix}, \\quad c = \\begin{vmatrix} -112.7213 \\\\ 0 \\\\ -194.4377  \\end{vmatrix} $$",
+      "option_b": "$$ a = \\begin{vmatrix} -194.4377 \\\\ 0 \\\\ -112.7213 \\end{vmatrix}, \\quad b = \\begin{vmatrix} 307.159 \\\\ 436.6216 \\\\ 112.7213 \\end{vmatrix}, \\quad c = \\begin{vmatrix} -112.7213 \\\\ -194.4377 \\\\ 0 \\end{vmatrix} $$",
+      "option_c": "$$ a = \\begin{vmatrix} -112.7213\\\\ 0 \\\\ -194.4377 \\end{vmatrix}, \\quad b = \\begin{vmatrix} 112.7213\\\\ 436.6216 \\\\ 307.159  \\end{vmatrix}, \\quad c = \\begin{vmatrix} 0\\\\ -194.4377 \\\\ -112.7213 \\end{vmatrix} $$",
+      "option_d": "$$ a = \\begin{vmatrix} 0 \\\\ -194.4377 \\\\ -112.7213 \\end{vmatrix}, \\quad b = \\begin{vmatrix} 436.6216 \\\\ 307.159 \\\\ 112.7213 \\end{vmatrix}, \\quad c = \\begin{vmatrix} -194.4377 \\\\ -112.7213 \\\\ 0 \\end{vmatrix} $$",
+      "correct_option": "d"
+   },
+   {
+      "question": "Find the updated value of a, b, c and d after performing the upper triangular matrix. Refer the a, b, c, and d values from Question 1.",
+      "qid": 2,
+      "option_a": "$$a = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}, \\quad b = \\begin{bmatrix} 55.116 \\\\ 436.6216 \\\\ 220.5714 \\end{bmatrix}, \\quad c = \\begin{bmatrix} 0\\\\ -194.4377 \\\\ -112.7213 \\end{bmatrix}, \\quad d = \\begin{bmatrix} 115.4944 \\\\ 89.8026 \\\\ 88.4559 \\end{bmatrix}$$",
+      "option_b": "$$ a = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}, \\quad b = \\begin{bmatrix} 220.5714 \\\\ 55.116 \\\\ 436.6216 \\end{bmatrix}, \\quad c = \\begin{bmatrix} -112.7213 \\\\ 0 \\\\ -194.4377 \\end{bmatrix}, \\quad d = \\begin{bmatrix} 88.4559 \\\\ 115.4944 \\\\ 89.8026 \\\\ \\end{bmatrix} $$",
+      "option_c": "$$a = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}, \\quad b = \\begin{bmatrix} 436.6216 \\\\ 220.5714 \\\\ 55.116 \\end{bmatrix}, \\quad c =\\begin{bmatrix} -194.4377 \\\\ -112.7213 \\\\ 0 \\end{bmatrix}, \\quad d = \\begin{bmatrix} 89.8026 \\\\ 88.4559 \\\\ 115.4944 \\end{bmatrix} $$",
+      "option_d": "$$ a = \\begin{bmatrix} 0 \\\\ 0 \\\\ 0 \\end{bmatrix}, \\quad b = \\begin{bmatrix} 220.5714 \\\\ 436.6216 \\\\ 55.116 \\end{bmatrix}, \\quad c = \\begin{bmatrix} -112.7213 \\\\ -194.4377 \\\\ 0 \\end{bmatrix}, \\quad d = \\begin{bmatrix} 88.4559 \\\\ 89.8026 \\\\ 115.4944 \\end{bmatrix} $$",
+      "correct_option": "c"
+   }
+]
