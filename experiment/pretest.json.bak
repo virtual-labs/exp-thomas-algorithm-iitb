@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Thomas algorithm is used in which case",
+      "qid": 1,
+      "option_a": "Tri-banded matrix",
+      "option_b": "Symetric matrix",
+      "option_c": "Upper triangular matrix",
+      "option_d": "Any matrix",
+      "correct_option": "a"
+   },
+   {
+      "question": "Thomas algorithm is _________ than elimination method",
+      "qid": 2,
+      "option_a": "faster",
+      "option_b": "slower",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "a"
+   }
+]
